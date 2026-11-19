@@ -22,3 +22,13 @@ Le point clé est l'**Étude 5** : elle simule une mesure bruitée pour estimer 
    ```bash
    git clone https://github.com/TON_NOM_UTILISATEUR/mini-projet-propagation.git
    cd mini-projet-propagation
+## 🛠️ Prérequis
+
+- Python 3.8+
+- numpy
+- matplotlib
+- scipy
+
+Installation des dépendances :
+```bash
+pip install numpy matplotlib scipy
