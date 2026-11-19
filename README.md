@@ -20,7 +20,7 @@ Le point clé est l'**Étude 5** : elle simule une mesure bruitée pour estimer 
 
 1. Clone le dépôt :
    ```bash
-   git clone https://github.com/TON_NOM_UTILISATEUR/mini-projet-propagation.git
+   git clone https://github.com/yassirpw/mini-projet-propagation.git
    cd mini-projet-propagation
 ## 🛠️ Prérequis
 
